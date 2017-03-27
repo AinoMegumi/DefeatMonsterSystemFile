@@ -1,0 +1,2 @@
+# DefeatMonsterSystemFile
+アンチ核家族化の各種ファイル
